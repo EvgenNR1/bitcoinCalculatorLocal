@@ -1,0 +1,25 @@
+{
+  "name": "bitcoinexternalapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Nikita",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikitaHarkov/BitCoing-Node.js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NikitaHarkov/BitCoing-Node.js/issues"
+  },
+  "homepage": "https://github.com/NikitaHarkov/BitCoing-Node.js#readme"
+}
