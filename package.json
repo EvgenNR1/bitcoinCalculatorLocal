@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "Nikita",
+  "author": "Evgeny",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.19.2",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NikitaHarkov/BitCoing-Node.js.git"
+    "url": "git+https://github.com/EvgenNR1/bitcoinCalculatorLocal.git"
   },
   "bugs": {
-    "url": "https://github.com/NikitaHarkov/BitCoing-Node.js/issues"
+    "url": "https://github.com/EvgenNR1/bitcoinCalculatorLocal/issues"
   },
-  "homepage": "https://github.com/NikitaHarkov/BitCoing-Node.js#readme"
+  "homepage": "https://github.com/EvgenNR1/bitcoinCalculatorLocal.git#readme"
 }
